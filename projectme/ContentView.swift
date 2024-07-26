@@ -29,8 +29,8 @@ struct ContentView: View {
                 Text("ontario & duke'28")
                 .foregroundColor(.white)
             Text("Github testing committ & push again")
-           
-                
+            }
+            Text("Github testing committ & push again")
             }
         .padding()
                 .background(Rectangle())
